@@ -44,6 +44,6 @@
 ***
 
 ## Etapes d'utilisation :
-1) npm start dans le dossier /backend
+1) `npm start` dans le dossier /backend
 
-2) npm start dans le dossier /frontend
+2) `npm start` dans le dossier /frontend
