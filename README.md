@@ -1,6 +1,6 @@
 ﻿# Fullstack app in React and MySQL
 
-##Before use it:
+## Before use it:
 
 1) `npm install` in /backend and `npm install` in /frontend
 
@@ -8,10 +8,10 @@
 
 3) create the .env file in /backend with this content:
 > SERVER_PORT=4200 
-> DB_HOST=localhost 
-> DB_USER=root 
-> DB_PASS= 
-> DB_DATABASE=fake_company 
+DB_HOST=localhost 
+DB_USER=root 
+DB_PASS= 
+DB_DATABASE=fake_company 
 
 (change DB_PASS with you use macOS)
 
@@ -23,7 +23,7 @@
 2) `npm start`  in /frontend
 
 ***
-FR
+*FR*
 ***
 
 ## Mise en place:
