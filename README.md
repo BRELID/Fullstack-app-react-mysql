@@ -7,7 +7,7 @@
 2) create a database named fake_company and add user table, like in the file: users.sql
 
 3) create the .env file in /backend with this content:
-> SERVER_PORT=4200 
+SERVER_PORT=4200 
 DB_HOST=localhost 
 DB_USER=root 
 DB_PASS= 
@@ -33,11 +33,11 @@ DB_DATABASE=fake_company
 2) créer une base donnée qui s'appelle fake_company et ajouter dedans la table users, comme dans le fichier : users.sql
 
 3) créer le fichier .env dans le dossier /backend avec le contenu suivant:
-> SERVER_PORT=4200 
-> DB_HOST=localhost 
-> DB_USER=root 
-> DB_PASS= 
-> DB_DATABASE=fake_company 
+SERVER_PORT=4200 
+DB_HOST=localhost 
+DB_USER=root 
+DB_PASS= 
+DB_DATABASE=fake_company 
 
 (changer DB_PASS si vous êtes sur macOS)
 
