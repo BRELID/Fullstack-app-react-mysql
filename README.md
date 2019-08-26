@@ -23,7 +23,7 @@
 2) `npm start`  in /frontend
 
 ***
-*FR*
+**FR**
 ***
 
 ## Mise en place:
